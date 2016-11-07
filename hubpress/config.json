@@ -1,21 +1,18 @@
 {
   "meta": {
-    "username": "hubpress",
-    "repositoryName": "blog.hubpress.io",
-    "branch": "gh-pages",
-    "cname": "blog.hubpress.io",
-    "delay": "500"
+    "username": "porwalarpit",
+    "repositoryName": "porwalarpit.github.io",
+    "branch": "gh-pages"
   },
   "site": {
-    "title": "HubPress",
+    "title": "Arpit Porwal",
     "logo": "http://hubpress.io/img/logo.png",
     "postsPerPage": "10",
     "googleAnalytics": "UA-59472195-1",
-    "disqus": "hubpress"
   },
   "socialnetwork": {
-    "twitter": "https://twitter.com/hubpressio",
-    "github": "https://github.com/hubpress"
+    "twitter": "https://twitter.com/Arpit_2905",
+    "github": "https://github.com/porwalarpit"
   },
   "theme": {
     "name": "roon"
